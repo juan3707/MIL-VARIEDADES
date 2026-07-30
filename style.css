@@ -2323,13 +2323,15 @@ footer{
 
     }
 
-    .hero-content h1{
+   .hero-content h1{
 
-        font-size:42px;
+    font-size:32px;
 
-        line-height:52px;
+    line-height:40px;
 
-    }
+    max-width:100%;
+
+}
 
     .hero-buttons{
 
